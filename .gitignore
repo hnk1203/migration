@@ -1,0 +1,14 @@
+# Ignore directories
+image_origin/
+image_sampled/
+image_test/
+
+# Ignore specific files
+*.zip
+*.tar
+
+# 기타 무시할 파일 또는 디렉토리가 있으면 추가
+# 예시:
+# logs/
+# *.log
+# .env
